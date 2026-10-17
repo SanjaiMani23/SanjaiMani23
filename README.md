@@ -14,22 +14,22 @@
         <h1>Hey there, I'm Sanjai M 👋</h1>
         <!-- Profile views metric -->
         <img src="https://hits.sh/github.com/SanjaiMani23.svg?style=flat-square&label=PROFILE%20VIEWS&color=32C766&labelColor=000000" alt="Profile views" />
-        <a href="https://github.com/SanjaiMani23"><img src="https://img.shields.io/badge/GitHub-SanjaiMani23-2684FF?style=flat-square&labelColor=000000&logo=github&logoColor=white" alt="GitHub profile" /></a>
+        <a href="https://github.com/SanjaiMani23"><img src="https://img.shields.io/badge/GitHub-SanjaiMani23-2684FF?style=flat-square&labelColor=000000&logo=github&logoColor=white" alt="GitHub profile[...]"</a>
         <a href="mailto:sanjai.mani666@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=EECB56" alt="Email" /></a>
         <a href="https://www.linkedin.com/in/sanjai-mani-23-non"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=2684FF" alt="LinkedIn" /></a>
         <br><br>
-        <img src="./assets/terminal-hero.svg" width="100%" alt="Terminal session. Manifesto: Structure is the design, layouts as load-bearing systems, grid first. Speed is a feature, fluid responsive UI budgeted to the millisecond. Status: full-stack developer and team lead, B.E. CSE at Nandha Engineering College, CGPA 8.40, NPTEL Ethical Hacking certified, open to hackathons and collabs." />
+        <img src="./terminal-hero.svg" width="100%" alt="Terminal session. Manifesto: Structure is the design, layouts as load-bearing systems, grid first. Speed is a feature, fluid respons[...]" />
       </td>
     </tr>
   </tbody>
 </table>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+<p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
 
 <table>
   <thead>
     <tr>
-      <th colspan="4"><img src="./assets/bar-stack.svg" width="100%" alt="Terminal: ls lists languages, frontend, backend-data and tools" /></th>
+      <th colspan="4"><img src="./bar-stack.svg" width="100%" alt="Terminal: ls lists languages, frontend, backend-data and tools" /></th>
     </tr>
     <tr>
       <th width="25%" align="left">⬜ <code>languages/</code></th>
@@ -74,12 +74,12 @@
 
 <p align="center"><sub>Also: Data Structures &amp; Algorithms, OOSE, UI/UX, System Design</sub></p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+<p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
 
 <table>
   <thead>
     <tr>
-      <th colspan="2"><img src="./assets/bar-projects.svg" width="100%" alt="Terminal: ls lists the projects prime-nuts-consultancy and cse-association-platform, and the hackathons sih-2025 and odoo-x-nmit-2026" /></th>
+      <th colspan="2"><img src="./bar-projects.svg" width="100%" alt="Terminal: ls lists the projects prime-nuts-consultancy and cse-association-platform, and the hackathons sih-2025 and odoo-x[...]" /></th>
     </tr>
   </thead>
   <tbody>
@@ -87,13 +87,13 @@
       <td width="50%" valign="top">
         <h3>🛒 Prime Nuts Consultancy</h3>
         <sub>E-commerce platform, full-stack developer and team lead</sub><br><br>
-        Led the team in architecting and building a secure full-stack e-commerce platform. Managed development through deployment readiness and delivered a solution aligned with the client's requirements.<br><br>
+        Led the team in architecting and building a secure full-stack e-commerce platform. Managed development through deployment readiness and delivered a solution aligned with the client's requireme[...] 
         <kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>JWT</kbd>
       </td>
       <td width="50%" valign="top">
         <h3>🎓 CSE Association Platform</h3>
         <sub>College association platform, full-stack developer and team lead</sub><br><br>
-        Leading development of a modern association platform, currently ready for deployment. Next up: a React Native mobile app that gives students one place for activities, resources and services.<br><br>
+        Leading development of a modern association platform, currently ready for deployment. Next up: a React Native mobile app that gives students one place for activities, resources and services.<b[...]</b>
         <kbd>Team lead</kbd> <kbd>Deployment-ready</kbd> <kbd>React Native (building)</kbd>
       </td>
     </tr>
@@ -110,12 +110,12 @@
   </tbody>
 </table>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+<p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
 
 <table>
   <thead>
     <tr>
-      <th colspan="3"><img src="./assets/bar-focus.svg" width="100%" alt="Terminal: jobs shows three running background jobs, clean-architecture, interface-responsiveness and fast-prototyping under pressure" /></th>
+      <th colspan="3"><img src="./bar-focus.svg" width="100%" alt="Terminal: jobs shows three running background jobs, clean-architecture, interface-responsiveness and fast-prototyping unde[...]" /></th>
     </tr>
   </thead>
   <tbody>
@@ -145,25 +145,25 @@
   </tbody>
 </table>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+<p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
 
 <table>
   <thead>
     <tr>
-      <th width="50%"><img src="./assets/bar-stats.svg" width="100%" alt="Terminal: git stats --user" /></th>
-      <th width="50%"><img src="./assets/bar-langs.svg" width="100%" alt="Terminal: git langs --top 8" /></th>
+      <th width="50%"><img src="./bar-stats.svg" width="100%" alt="Terminal: git stats --user" /></th>
+      <th width="50%"><img src="./bar-langs.svg" width="100%" alt="Terminal: git langs --top 8" /></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td width="50%" align="center" valign="top">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SanjaiMani23&custom_title=Contribution+Stats&show_icons=true&rank_icon=github&hide_border=true&border_radius=8&card_width=440&line_height=24&title_color=8AE234&icon_color=729FCF&text_color=EECB56&ring_color=8AE234&bg_color=000000" alt="GitHub contribution stats" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SanjaiMani23&custom_title=Contribution+Stats&show_icons=true&rank_icon=github&hide_border=true&border_radius=8&card_..." alt="Contribution stats" />
       </td>
       <td width="50%" align="center" valign="top">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaiMani23&custom_title=Language+Mix&layout=compact&langs_count=8&hide_border=true&border_radius=8&card_width=440&title_color=8AE234&text_color=EECB56&bg_color=000000" alt="Most used languages" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaiMani23&custom_title=Language+Mix&layout=compact&langs_count=8&hide_border=true&border_radius=8&card_..." alt="Language mix" />
       </td>
     </tr>
   </tbody>
 </table>
 
-<p align="center"><img src="./assets/terminal-exit.svg" width="360" alt="Terminal: exit, then logout" /></p>
+<p align="center"><img src="./terminal-exit.svg" width="360" alt="Terminal: exit, then logout" /></p>
