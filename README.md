@@ -147,23 +147,6 @@
 
 <p align="center"><img src="./divider.svg" width="100%" alt="" /></p>
 
-<table>
-  <thead>
-    <tr>
-      <th width="50%"><img src="./bar-stats.svg" width="100%" alt="Terminal: git stats --user" /></th>
-      <th width="50%"><img src="./bar-langs.svg" width="100%" alt="Terminal: git langs --top 8" /></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SanjaiMani23&custom_title=Contribution+Stats&show_icons=true&rank_icon=github&hide_border=true&border_radius=8&card_..." alt="Contribution stats" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaiMani23&custom_title=Language+Mix&layout=compact&langs_count=8&hide_border=true&border_radius=8&card_..." alt="Language mix" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+
 
 <p align="center"><img src="./terminal-exit.svg" width="360" alt="Terminal: exit, then logout" /></p>
