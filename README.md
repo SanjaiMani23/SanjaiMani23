@@ -11,7 +11,7 @@
   <tbody>
     <tr>
       <td>
-        <h1>Hey there, I'm SANJAI M 👋</h1>
+        <h1>Hey there, I'm Sanjai M 👋</h1>
         <!-- Profile views metric -->
         <img src="https://hits.sh/github.com/SanjaiMani23.svg?style=flat-square&label=PROFILE%20VIEWS&color=32C766&labelColor=000000" alt="Profile views" />
         <a href="https://github.com/SanjaiMani23"><img src="https://img.shields.io/badge/GitHub-SanjaiMani23-2684FF?style=flat-square&labelColor=000000&logo=github&logoColor=white" alt="GitHub profile[...]"</a>
